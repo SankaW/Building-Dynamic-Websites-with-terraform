@@ -1,0 +1,9 @@
+.terraform/
+.terraform.lock.hcl
+Building Dynamic Websites using.docx
+aws_ses_send_semails.py
+CertificateOfCompletion_Building Dynamic Websites using AWS Lambdas.pdf
+Ex_Files_Dynamic_Websites_AWS_Lambda.zip
+Ex_Files_Dynamic_Websites_AWS_Lambda/
+terraform.tfstate
+terraform.tfstate.backup
